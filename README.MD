@@ -7,4 +7,4 @@
 
 
 
-[Maven Interview Questions](interview/MAVEN_INTERVIEW.MD)
+[Maven Interview Questions](src/interview/MAVEN_INTERVIEW.MD)
